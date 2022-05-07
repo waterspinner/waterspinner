@@ -1,0 +1,2 @@
+- Hi Im Waterspinner, Learning Python and Go at the moment
+- Here for it all
