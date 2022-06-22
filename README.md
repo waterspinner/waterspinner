@@ -1,2 +1,3 @@
-- Hi Im Waterspinner, Learning Python and Go at the moment
+- Hi Im Waterspinner, Learning frontend development at the moment
+- Currently on HTML and CSS
 - Here for it all
