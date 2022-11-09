@@ -1,3 +1,3 @@
 - Hi Im Waterspinner, Learning frontend development at the moment
-- Currently on HTML and CSS
+- Currently writing HTML, CSS, and Javascript
 - Here for it all
