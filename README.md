@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML/CSS and Javascript**
 
-- 📫 How to reach me **waterpspinner1@gmail.com**
+- 📫 How to reach me **waterspinner1@gmail.com**
 
 - ⚡ Fun fact **I enjoy snowboarding**
 
